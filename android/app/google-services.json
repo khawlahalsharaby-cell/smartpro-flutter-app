@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684934122590",
+    "project_id": "smartpro-erp-e5eba",
+    "storage_bucket": "smartpro-erp-e5eba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684934122590:android:8c800d428ff001c11fb8cf",
+        "android_client_info": {
+          "package_name": "com.example.untitled17"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2LdnJDO_lVXlbZGTaNpWubcP2K-7N-Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
